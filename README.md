@@ -1,3 +1,5 @@
+# Gabriel D Minzemalulu
+# 2020-04-07096
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
